@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AwesomeResumeTest</string>
+    <string name="section_education">Education</string>
+    <string name="section_experience">Experience</string>
+    <string name="section_projects">Projects</string>
+    <string name="edit_education">Edit education</string>
+    <string name="education_school">School</string>
+    <string name="education_major">Major</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="education_edit_courses_hint">Courses</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">delete</string>
+    <string name="experience_company">Company</string>
+    <string name="experience_position">Position</string>
+    <string name="experience_edit_jobs_hint">Jobs</string>
+    <string name="edit_experience">Edit experience</string>
+    <string name="edit_project">Edit project</string>
+    <string name="project_topic">Topic</string>
+    <string name="project_edit_details_hint">Details</string>
+    <string name="choose_user_picture">Choose your user picture</string>
+    <string name="basic_info_edit_name_hint">Enter your name</string>
+    <string name="basic_info_edit_email_hint">Enter your email</string>
+</resources>
